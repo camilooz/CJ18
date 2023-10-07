@@ -11,7 +11,7 @@ public class TrabajoEnClase {
         System.out.println("Digite la cantidad de dolares a convertir");
         int valor = scanner.nextInt();
 
-        conver(valor,4386);
+        conver(valor,3948);
 
     }
 
