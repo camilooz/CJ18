@@ -16,6 +16,6 @@ public class TrabajoEnClase {
     }
 
     private static void conver(int valor, int i) {
-        System.out.println("es valor es: "+(valor*i));
+        System.out.println("es valor es: $ "+(valor*i));
     }
 }
